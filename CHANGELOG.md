@@ -1,5 +1,9 @@
 # CHANGELOG
 
+## 0.96.2 Feb 14, 2022
+
+Updating...
+
 ## 0.96.1 Sep 20, 2021
 
 Contributed:
